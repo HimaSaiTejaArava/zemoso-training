@@ -6,6 +6,7 @@ Before Pushing;
 1. Git add 
 2. Git commit
 3. Git Push just to show the merge conflict
+3. Git Push and then pull request
 
 Something;
 
