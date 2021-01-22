@@ -8,3 +8,5 @@ Before Pushing;
 3. Git Push
 
 Something;
+
+I am learning about merge conflict
