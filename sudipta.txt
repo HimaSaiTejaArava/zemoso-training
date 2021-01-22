@@ -5,6 +5,6 @@ Before Pushing;
 
 1. Git add 
 2. Git commit
-3. Git Push
+3. Git Push and then pull request
 
 Something;
